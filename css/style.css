@@ -16,6 +16,11 @@
   margin-right: 0.25rem;
 }
 
+.max-text-content-width {
+  max-width: 60ch;
+  margin: 0 auto;
+}
+
 :root {
   --blue: #1C87E8;
   --indigo: #3529D0;
