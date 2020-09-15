@@ -6,7 +6,7 @@
  */
 
 @import "functions";
-@import "colors"; //added custom based on tailwinds 100-900 scale
+@import "custom"; //added custom colors based on tailwinds 100-900 scale and icons
 @import "variables";
 @import "mixins";
 @import "root";
@@ -43,3 +43,4 @@
 @import "spinners";
 @import "utilities";
 @import "print";
+
