@@ -1,0 +1,25 @@
+.create-new{
+    background: $palette-neutral-100;
+
+    section{
+        margin-top: 3rem;
+        margin-bottom: 3rem;
+    }
+    
+}
+
+
+.color-selector-group{
+    .color-selector{
+        width: 45px;
+        height: 45px;
+        border-radius: 50%;
+        border: 5px solid white;
+        box-shadow: $box-shadow-sm;
+        background-color: $palette-neutral-100;
+
+        &.red-option{
+            background: $palette-red-500;
+        }
+    }
+}

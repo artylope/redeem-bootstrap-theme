@@ -11296,3 +11296,22 @@ h3 {
     border-color: transparent;
   }
 }
+.create-new {
+  background: #ECEFF3;
+}
+.create-new section {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+.color-selector-group .color-selector {
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  border: 5px solid white;
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+  background-color: #ECEFF3;
+}
+.color-selector-group .color-selector.red-option {
+  background: #E62F2F;
+}
